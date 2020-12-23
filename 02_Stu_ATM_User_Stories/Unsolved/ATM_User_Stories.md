@@ -23,11 +23,11 @@ Think of the ATM application in terms of its user stories.
 
 Create the following ATM user stories:
 
-* As a user of an ATM, I:
+* As a user of an ATM, I: need to find out the balance of my checking account so i can withdraw cash.
 
-* As a user of an ATM, I:
+* As a user of an ATM, I: need to secure access to my account to prevent unauthorized access to it.
 
-* As a user of an ATM, I:
+* As a user of an ATM, I: need deposits processed correctly so that my deposits are correct.
 
 * As a user of an ATM, I:
 
